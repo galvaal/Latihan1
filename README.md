@@ -73,8 +73,11 @@ Kelas : TI.22.A.3
 
 ![Screenshot_14](https://user-images.githubusercontent.com/115516730/196018078-74628122-fa9c-4334-a892-b9a5184e5b8f.png)
 
-Disclaimer *Mohon maaf karena laptop saya lag jadi setelah menggunakan perintah "git push" tidak muncul perintah untuk memasukan user dan password github saya sekali lagi mohon maaf
 
+14. Setelah itu masukan user name dan password github kita
+
+
+![Screenshot_15](https://user-images.githubusercontent.com/115516730/196018523-69c707e5-1373-4b84-8d9d-3b60c5a22e77.png)
 
 
 
